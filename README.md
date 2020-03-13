@@ -1,4 +1,4 @@
-![Logo of the project]()
+![Logo](https://postimg.cc/JyLtkDJs)
 
 # Horiseon SEO
 > Optimization of Horiseons SEO ranking. 
@@ -9,31 +9,51 @@ I rewrote portions of the code to increase semantics and improve user accessibil
 
 Example: 
 
-old code 
-new code
-
-
-### Initial Configuration
-
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
+<body>
+    <div class="header">
+        <h1>Hori<span class="seo">seo</span>n</h1>
+        <div>
+            <ul>
+                <li>
+                    <a href="#search-engine-optimization">Search Engine Optimization</a>
+                </li>
+                <li>
+                    <a href="#online-reputation-management">Online Reputation Management</a>
+                </li>
+                <li>
+                    <a href="#social-media-marketing">Social Media Marketing</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+  
+  to:
+  
+  <!--Main navigation bar.-->
+<body>
+    <header>
+        <!--Company name.-->
+        <h1>Hori<span class="seo">seo</span>n</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#search-engine-optimization">Search Engine Optimization</a>
+                </li>
+                <li>
+                    <a href="#online-reputation-management">Online Reputation Management</a>
+                </li>
+                <li>
+                    <a href="#social-media-marketing">Social Media Marketing</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
 
 
 ## Contributing
+If you'd like to contribute, please fork the repository and use a feature
+branch. Pull requests are welcome.
 
-When you publish something open source, one of the greatest motivations is that
-anyone can just jump in and start contributing to your project.
-
-These paragraphs are meant to welcome those kind souls to feel that they are
-needed. You should state something like:
-
-"If you'd like to contribute, please fork the repository and use a feature
-branch. Pull requests are warmly welcome."
-
-If there's anything else the developer needs to know (e.g. the code style
-guide), you should link it here. If there's a lot of things to take into
-consideration, it is common to separate this section to its own file called
-`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
 
 ## Links
 
@@ -41,15 +61,11 @@ Even though this information can be found inside the project on machine-readable
 format like in a .json file, it's good to include a summary of most useful
 links to humans using your project. You can include links like:
 
-- Project homepage: https://your.github.com/awesome-project/
-- Repository: https://github.com/your/awesome-project/
-- Issue tracker: https://github.com/your/awesome-project/issues
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    my@email.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
+- HTML5 reference: http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf- 
+Repository: https://github.com/denalivalentina/denalishomework
 - Related projects:
-  - Your other project: https://github.com/your/other-project/
-  - Someone else's project: https://github.com/someones/awesome-project/
+  - My other project: https://github.com/denalivalentina?tab=repositories
+  
 
 
 ## Licensing
