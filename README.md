@@ -13,10 +13,6 @@ branch. Pull requests are welcome.
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - HTML5 reference: http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf- 
 Repository: https://github.com/denalivalentina/denalishomework
 - Related projects:
