@@ -1,4 +1,4 @@
-![Logo](https://postimg.cc/JyLtkDJs)
+![horiseon.png](https://i.postimg.cc/W4DZx01w/horiseon.png)
 
 # Horiseon SEO
 > Optimization of Horiseons SEO ranking. 
