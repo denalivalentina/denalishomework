@@ -14,7 +14,8 @@ branch. Pull requests are welcome.
 ## Links
 
 - HTML5 reference: http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf- 
-Repository: https://github.com/denalivalentina/denalishomework
+
+- Repository: https://github.com/denalivalentina/denalishomework
 - Related projects:
   - My other project: https://github.com/denalivalentina?tab=repositories
   
